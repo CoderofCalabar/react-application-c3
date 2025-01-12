@@ -1,0 +1,1 @@
+export { default as Pexel  } from "./pexels2.jpg";
