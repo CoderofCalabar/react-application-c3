@@ -19,9 +19,7 @@ function Header () {
             </div>
 
             <div>
-                <button className="redbtn" style={{
-                    backgroundColor: "blue"
-                }}>Join</button>
+                <button className="redbtn">Join</button>
             </div>
         </header>
     )
